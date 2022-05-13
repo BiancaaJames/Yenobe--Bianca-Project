@@ -1,0 +1,45 @@
+.title {
+    text-align: center;
+    color: #ffc4fc;
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+}
+
+.navigation-bar {
+    display: flex;
+    justify-content: center;
+    border: 5px solid #ffc4fc;
+}
+
+.Youtube {
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.twitter {
+    padding: 5px;
+    margin: 10px;
+}
+
+.gif {
+    height: 250px;
+
+}
+
+.pictures {
+    display: flex;
+    justify-content: center;
+}
+
+.border {
+    margin: 5px;
+    padding: 10px;
+    justify-content: center;
+
+    border: 10px solid #ffc4fc;
+}
+
+.body {
+    height: 180px;
+}
